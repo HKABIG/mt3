@@ -50,7 +50,7 @@ setuptools.setup(
         'scipy',
         'seqio @ git+https://github.com/google/seqio#egg=seqio',
         't5',
-        't5x @ git+https://github.com/HKABIG/t5x#egg=t5x',
+        't5x @ git+https://github.com/prathameshd30/t5x#egg=t5x',
         'tensorflow',
         'tensorflow-datasets',
     ],
